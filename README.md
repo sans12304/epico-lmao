@@ -57,3 +57,4 @@ The *Update Server* is an optional part of RoVer that can be enabled in `client.
 # verification-bot
 # epico-lmao
 # epico-lmao
+[![Run on Repl.it](https://repl.it/badge/github/sans12304/epico-lmao)](https://repl.it/github/sans12304/epico-lmao)
